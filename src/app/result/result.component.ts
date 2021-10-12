@@ -1,5 +1,5 @@
 import { NgSwitch } from '@angular/common';
-import { Component, OnInit, Input, SimpleChanges } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-result',
